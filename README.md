@@ -1,6 +1,6 @@
 📡 Cyber Expert Bladex — GUI Network Scanner & Vulnerability Finder
 ⚔️ About
-Cyber Expert Bladex is a professional-grade, PyQt5-based graphical network scanner designed for penetration testers, blue teams, and network auditors. It wraps around Nmap, offering a powerful UI and vulnerability enrichment features, including CVE lookup and optional offline caching.
+Cyber Expert Bladex is a professional-grade, PyQt5-based graphical network scanner designed for penetration testers, blue teams, and network auditors. It wraps around Nmap, offering a powerful UI and vulnerability enrichment features, including CVE lookup and optional offline caching. contact Telegram:@mrbladestalker35
 🚨 Legal Notice: Use this tool only on systems you own or have explicit authorization to scan.
 🧰 Features
 
