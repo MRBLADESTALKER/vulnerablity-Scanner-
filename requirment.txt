@@ -1,3 +1,0 @@
-pip install python-nmap PyQt5 cryptography requests
-python3 -m venv venv
-source venv/bin/activate
